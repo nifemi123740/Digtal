@@ -1,0 +1,41 @@
+body{
+
+background-color: lavender;
+
+align-items: center;
+
+text-align: center;
+
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+flex-direction: column;
+
+margin: 0;
+
+}
+
+#MyClockDisplay{
+
+font-size: 5em;
+
+letter-spacing: 0.1em;
+
+padding: 0.5em 1em;
+
+border-radius: 10px;
+
+background-color: aqua;
+
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+
+margin: 40px ;
+
+display:inline-block;
+
+}
+
+h1{
+
+font-size: 5em;
+
+}
